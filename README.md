@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+# Example Fetch Rest API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Example Project For Learn Fetch Data In Reatc Js Clone, Watch, And Learn
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+![Screenshot_2022-11-10_11-21-05](https://user-images.githubusercontent.com/83684256/201000008-e9ba4eb6-76a2-4364-9326-8e836c2ea6e4.png)
+
+## Information
+
+Page :
+-> Home,Book,News
+Dependences :
+-> React Router
+
+> THIS EXAMPLE FOR LEARN FETCH DATA FROM API JSON USE PARAMS TO GET PARAMETERS URL AND LOOK SAME ID
 
 ### `yarn start`
 
